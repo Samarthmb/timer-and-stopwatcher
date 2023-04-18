@@ -9,4 +9,4 @@
 - Start time.
 - Reset the clock.
 
-## **Find it here: [Start Stop Clock](https://noorinsakhi.github.io/SpeedStopStart/)**
+## **Find it here: [Start Stop Clock]
